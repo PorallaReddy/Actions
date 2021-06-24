@@ -1,4 +1,4 @@
-name: Intigration
+name: Integration
 on:
   push:
     branches: [ main ]
